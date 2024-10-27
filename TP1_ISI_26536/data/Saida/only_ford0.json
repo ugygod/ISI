@@ -1,0 +1,358 @@
+[ {
+  "Marca" : "ford",
+  "Modelo" : "torino",
+  "cylinders" : 3,
+  "horsepower" : "140",
+  "weight" : 3449,
+  "Year" : 1970
+}, {
+  "Marca" : "ford",
+  "Modelo" : "galaxie 500",
+  "cylinders" : 4,
+  "horsepower" : "198",
+  "weight" : 4341,
+  "Year" : 2020
+}, {
+  "Marca" : "ford",
+  "Modelo" : "maverick",
+  "cylinders" : 6,
+  "horsepower" : "85",
+  "weight" : 2587,
+  "Year" : 1970
+}, {
+  "Marca" : "ford",
+  "Modelo" : "f250",
+  "cylinders" : 8,
+  "horsepower" : "215",
+  "weight" : 4615,
+  "Year" : 1970
+}, {
+  "Marca" : "ford",
+  "Modelo" : "pinto",
+  "cylinders" : 4,
+  "horsepower" : "ND",
+  "weight" : 2046,
+  "Year" : 1971
+}, {
+  "Marca" : "ford",
+  "Modelo" : "torino 500",
+  "cylinders" : 6,
+  "horsepower" : "88",
+  "weight" : 3302,
+  "Year" : 1971
+}, {
+  "Marca" : "ford",
+  "Modelo" : "galaxie 500",
+  "cylinders" : 8,
+  "horsepower" : "153",
+  "weight" : 4154,
+  "Year" : 1971
+}, {
+  "Marca" : "ford",
+  "Modelo" : "country squire (sw)",
+  "cylinders" : 8,
+  "horsepower" : "170",
+  "weight" : 4746,
+  "Year" : 1971
+}, {
+  "Marca" : "ford",
+  "Modelo" : "mustang",
+  "cylinders" : 6,
+  "horsepower" : "88",
+  "weight" : 3139,
+  "Year" : 1971
+}, {
+  "Marca" : "ford",
+  "Modelo" : "pinto runabout",
+  "cylinders" : 4,
+  "horsepower" : "86",
+  "weight" : 2226,
+  "Year" : 1972
+}, {
+  "Marca" : "ford",
+  "Modelo" : "galaxie 500",
+  "cylinders" : 8,
+  "horsepower" : "153",
+  "weight" : 4129,
+  "Year" : 1972
+}, {
+  "Marca" : "ford",
+  "Modelo" : "gran torino (sw)",
+  "cylinders" : 8,
+  "horsepower" : "140",
+  "weight" : 4294,
+  "Year" : 1972
+}, {
+  "Marca" : "ford",
+  "Modelo" : "pinto (sw)",
+  "cylinders" : 4,
+  "horsepower" : "86",
+  "weight" : 2395,
+  "Year" : 1972
+}, {
+  "Marca" : "ford",
+  "Modelo" : "gran torino",
+  "cylinders" : 8,
+  "horsepower" : "137",
+  "weight" : 4042,
+  "Year" : 1973
+}, {
+  "Marca" : "ford",
+  "Modelo" : "ltd",
+  "cylinders" : 8,
+  "horsepower" : "158",
+  "weight" : 4363,
+  "Year" : 1973
+}, {
+  "Marca" : "ford",
+  "Modelo" : "maverick",
+  "cylinders" : 6,
+  "horsepower" : "88",
+  "weight" : 3021,
+  "Year" : 1973
+}, {
+  "Marca" : "ford",
+  "Modelo" : "country",
+  "cylinders" : 8,
+  "horsepower" : "167",
+  "weight" : 4906,
+  "Year" : 1973
+}, {
+  "Marca" : "ford",
+  "Modelo" : "pinto",
+  "cylinders" : 4,
+  "horsepower" : "85",
+  "weight" : 2310,
+  "Year" : 1973
+}, {
+  "Marca" : "ford",
+  "Modelo" : "maverick",
+  "cylinders" : 6,
+  "horsepower" : "ND",
+  "weight" : 2875,
+  "Year" : 1974
+}, {
+  "Marca" : "ford",
+  "Modelo" : "pinto",
+  "cylinders" : 4,
+  "horsepower" : "80",
+  "weight" : 2451,
+  "Year" : 1974
+}, {
+  "Marca" : "ford",
+  "Modelo" : "gran torino",
+  "cylinders" : 8,
+  "horsepower" : "140",
+  "weight" : 4141,
+  "Year" : 1974
+}, {
+  "Marca" : "ford",
+  "Modelo" : "gran torino (sw)",
+  "cylinders" : 8,
+  "horsepower" : "140",
+  "weight" : 4638,
+  "Year" : 1974
+}, {
+  "Marca" : "ford",
+  "Modelo" : "maverick",
+  "cylinders" : 6,
+  "horsepower" : "72",
+  "weight" : 3158,
+  "Year" : 1975
+}, {
+  "Marca" : "ford",
+  "Modelo" : "ltd",
+  "cylinders" : 8,
+  "horsepower" : "148",
+  "weight" : 4657,
+  "Year" : 1975
+}, {
+  "Marca" : "ford",
+  "Modelo" : "mustang ii",
+  "cylinders" : 8,
+  "horsepower" : "129",
+  "weight" : 3169,
+  "Year" : 1975
+}, {
+  "Marca" : "ford",
+  "Modelo" : "pinto",
+  "cylinders" : 4,
+  "horsepower" : "83",
+  "weight" : 2639,
+  "Year" : 1975
+}, {
+  "Marca" : "ford",
+  "Modelo" : "pinto",
+  "cylinders" : 6,
+  "horsepower" : "97",
+  "weight" : 2984,
+  "Year" : 1975
+}, {
+  "Marca" : "ford",
+  "Modelo" : "gran torino",
+  "cylinders" : 8,
+  "horsepower" : "152",
+  "weight" : 4215,
+  "Year" : 1976
+}, {
+  "Marca" : "ford",
+  "Modelo" : "maverick",
+  "cylinders" : 6,
+  "horsepower" : "81",
+  "weight" : 3012,
+  "Year" : 1976
+}, {
+  "Marca" : "ford",
+  "Modelo" : "granada ghia",
+  "cylinders" : 6,
+  "horsepower" : "78",
+  "weight" : 3574,
+  "Year" : 1976
+}, {
+  "Marca" : "ford",
+  "Modelo" : "pinto",
+  "cylinders" : 4,
+  "horsepower" : "72",
+  "weight" : 2565,
+  "Year" : 1976
+}, {
+  "Marca" : "ford",
+  "Modelo" : "f108",
+  "cylinders" : 8,
+  "horsepower" : "130",
+  "weight" : 3870,
+  "Year" : 1976
+}, {
+  "Marca" : "ford",
+  "Modelo" : "granada",
+  "cylinders" : 6,
+  "horsepower" : "98",
+  "weight" : 3525,
+  "Year" : 1977
+}, {
+  "Marca" : "ford",
+  "Modelo" : "thunderbird",
+  "cylinders" : 8,
+  "horsepower" : "149",
+  "weight" : 4335,
+  "Year" : 1977
+}, {
+  "Marca" : "ford",
+  "Modelo" : "mustang ii 2+2",
+  "cylinders" : 4,
+  "horsepower" : "89",
+  "weight" : 2755,
+  "Year" : 1977
+}, {
+  "Marca" : "ford",
+  "Modelo" : "fiesta",
+  "cylinders" : 4,
+  "horsepower" : "66",
+  "weight" : 1800,
+  "Year" : 1978
+}, {
+  "Marca" : "ford",
+  "Modelo" : "fairmont (auto)",
+  "cylinders" : 6,
+  "horsepower" : "85",
+  "weight" : 2965,
+  "Year" : 1978
+}, {
+  "Marca" : "ford",
+  "Modelo" : "fairmont (man)",
+  "cylinders" : 4,
+  "horsepower" : "88",
+  "weight" : 2720,
+  "Year" : 1978
+}, {
+  "Marca" : "ford",
+  "Modelo" : "futura",
+  "cylinders" : 8,
+  "horsepower" : "139",
+  "weight" : 3205,
+  "Year" : 1978
+}, {
+  "Marca" : "ford",
+  "Modelo" : "fairmont 4",
+  "cylinders" : 4,
+  "horsepower" : "88",
+  "weight" : 2890,
+  "Year" : 1979
+}, {
+  "Marca" : "ford",
+  "Modelo" : "ltd landau",
+  "cylinders" : 8,
+  "horsepower" : "129",
+  "weight" : 3725,
+  "Year" : 1979
+}, {
+  "Marca" : "ford",
+  "Modelo" : "country squire (sw)",
+  "cylinders" : 8,
+  "horsepower" : "142",
+  "weight" : 4054,
+  "Year" : 1979
+}, {
+  "Marca" : "ford",
+  "Modelo" : "fairmont",
+  "cylinders" : 4,
+  "horsepower" : "88",
+  "weight" : 2870,
+  "Year" : 1980
+}, {
+  "Marca" : "ford",
+  "Modelo" : "mustang cobra",
+  "cylinders" : 4,
+  "horsepower" : "ND",
+  "weight" : 2905,
+  "Year" : 1980
+}, {
+  "Marca" : "ford",
+  "Modelo" : "escort 4w",
+  "cylinders" : 4,
+  "horsepower" : "65",
+  "weight" : 2045,
+  "Year" : 1981
+}, {
+  "Marca" : "ford",
+  "Modelo" : "escort 2h",
+  "cylinders" : 4,
+  "horsepower" : "65",
+  "weight" : 2380,
+  "Year" : 1981
+}, {
+  "Marca" : "ford",
+  "Modelo" : "granada gl",
+  "cylinders" : 6,
+  "horsepower" : "88",
+  "weight" : 3060,
+  "Year" : 1981
+}, {
+  "Marca" : "ford",
+  "Modelo" : "fairmont futura",
+  "cylinders" : 4,
+  "horsepower" : "92",
+  "weight" : 2865,
+  "Year" : 1982
+}, {
+  "Marca" : "ford",
+  "Modelo" : "granada l",
+  "cylinders" : 6,
+  "horsepower" : "112",
+  "weight" : 2835,
+  "Year" : 1982
+}, {
+  "Marca" : "ford",
+  "Modelo" : "mustang gl",
+  "cylinders" : 4,
+  "horsepower" : "86",
+  "weight" : 2790,
+  "Year" : 1982
+}, {
+  "Marca" : "ford",
+  "Modelo" : "ranger",
+  "cylinders" : 4,
+  "horsepower" : "79",
+  "weight" : 2625,
+  "Year" : 1982
+} ]
